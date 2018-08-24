@@ -1,0 +1,16 @@
+{
+  "name": "web_scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "node-cron": "^1.2.1",
+    "nodemailer": "^4.6.8"
+  }
+}
